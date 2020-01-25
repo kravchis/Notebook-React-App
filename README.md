@@ -1,4 +1,4 @@
-### First React project "Notebook" using Bootstrap, Firebase. Designed for storing/editing/deleting notes with filtering by category/date avaiable.
+###  First React project "Notebook" using Bootstrap, Firebase. Designed for storing/editing/deleting notes with filtering by category/date avaiable.
 
 ### `npm start` in directory to launch
 
